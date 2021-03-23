@@ -1,0 +1,3 @@
+ebdjango/settings.py
+ebdjango/__pycache__/
+db.sqlite3
